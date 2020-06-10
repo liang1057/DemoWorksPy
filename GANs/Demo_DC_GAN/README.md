@@ -6,9 +6,14 @@
 
 大约训练到35次之后，就比较稳定了
 
-40次训练后，能够很明确的看到很合适的手写数字图像
+40次训练循环后，能够很明确的看到很合适的手写数字图像
+100训练循环后，就
 
 这些图像都不是mnist数据集中的，而是通过生成器得到的
 
+
+
+![result](https://github.com/liang1057/DemoWorksPy/blob/master/GANs/Demo_DC_GAN/DC_GAN_MNIST_01_ret100.jpg)
+
 欢迎交流
-![result](https://github.com/liang1057/DemoWorksPy/blob/master/GANs/Demo_DC_GAN/DC_GAN_MNIST_01_ret100.png)
+Leon
