@@ -11,3 +11,4 @@
 这些图像都不是mnist数据集中的，而是通过生成器得到的
 
 欢迎交流
+![result](https://github.com/liang1057/DemoWorksPy/blob/master/GANs/Demo_DC_GAN/DC_GAN_MNIST_01_ret100.png)
